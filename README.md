@@ -41,7 +41,7 @@ All networking commands return a -1 on error
 
 Endian
 ------
-IP and port must be specified network endian order. 
+IP and port must be specified in network endian order. 
 
 Synchronization issues
 ----------------------
